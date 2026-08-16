@@ -15,14 +15,24 @@ I'm interested mainly in software development/engineering, problem solving, and 
 ### 🧰 Tools, Technologies, etc:
 
 #### Languages:
-(Python, Java, C++, HTML, CSS, JS)
-^^will format later.
+- Python
+- Java
+- C++
+- HTML
+- CSS
+- JavaScript
 
 #### Frameworks & Technologies:
-xyz here django etc
+- Django
+- Tkinter & Tkinter.ttk
+- SQLite
+- JSON
+- Arduino
 
 #### Tools:
-abc
+- Git
+- GitHub
+- VSCode
 
 ### 📥 Get in touch:
 - Linkedin: https://www.linkedin.com/in/alfie-rider/
