@@ -37,4 +37,4 @@ I'm interested mainly in software development/engineering, problem solving, and 
 ### 📥 Get in touch:
 - Linkedin: https://www.linkedin.com/in/alfie-rider/
 - Email: ridera.2125@gmail.com
-- GitHub: @QuantuCodes
+- GitHub: [QuantuCodes](https://github.com/QuantuCodes)
