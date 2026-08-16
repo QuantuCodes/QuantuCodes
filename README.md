@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi! 👋
 
-<!--
-**QuantuCodes/QuantuCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alfie, a Computer Science student at King's College London (KCL) currently working towards an MSci in Computer Science.
 
-Here are some ideas to get you started:
+I'm interested mainly in software development/engineering, problem solving, and building projects that are genuinely useful (even if only to 1 person). I'm also interested in Cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 What I'm currently working on:
+....* Studying for my degree
+....* Python projects
+....* GUI applications
+....* Learning C++
+....* Learning Competitive Programming
+....* Personal projects 
+
+### Tools, Technologies, etc:
+#### Languages:
+(Python, Java, C++, HTML, CSS, JS)
+^^will format later.
+#### Frameworks & Technologies:
+xyz here django etc
+#### Tools:
+abc
+
+### Get in touch:
+....* Linkedin: https://www.linkedin.com/in/alfie-rider/
+....* Email: ridera.2125@gmail.com
+....* GitHub: @QuantuCodes
