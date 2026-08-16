@@ -12,16 +12,19 @@ I'm interested mainly in software development/engineering, problem solving, and 
 ....* Learning Competitive Programming
 ....* Personal projects 
 
-### Tools, Technologies, etc:
+### 🧰 Tools, Technologies, etc:
+
 #### Languages:
 (Python, Java, C++, HTML, CSS, JS)
 ^^will format later.
+
 #### Frameworks & Technologies:
 xyz here django etc
+
 #### Tools:
 abc
 
-### Get in touch:
+### 📥 Get in touch:
 ....* Linkedin: https://www.linkedin.com/in/alfie-rider/
 ....* Email: ridera.2125@gmail.com
 ....* GitHub: @QuantuCodes
