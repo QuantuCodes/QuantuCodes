@@ -2,7 +2,7 @@
 
 I'm Alfie, a Computer Science student at King's College London (KCL) currently working towards an MSci in Computer Science.
 
-I'm interested mainly in software development/engineering, problem solving, and building projects that are genuinely useful (even if only to 1 person). I'm also interested in Cybersecurity.
+I'm interested mainly in software development/engineering, problem solving, and building projects that are genuinely useful (even if only to 1 person). I'm also interested in Cybersecurity, and like to participate in CTFs every so often.
 
 ### 💻 What I'm currently working on:
 - Studying for my degree
@@ -21,6 +21,7 @@ I'm interested mainly in software development/engineering, problem solving, and 
 - HTML
 - CSS
 - JavaScript
+- SQL
 
 #### Frameworks & Technologies:
 - Django
@@ -33,6 +34,7 @@ I'm interested mainly in software development/engineering, problem solving, and 
 - Git
 - GitHub
 - VSCode
+- Arduino (IDE)
 
 ### 📥 Get in touch:
 - Linkedin: https://www.linkedin.com/in/alfie-rider/
